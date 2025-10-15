@@ -1,0 +1,36 @@
+﻿=== IdleBiz Scripts Mirror (read-only) ===
+Source: C:/Users/Administrator/Desktop/IdleBiz/IdleBiz/Assets\_Project\Scripts
+Generated: 2025-10-15 22:04:18
+
+Achievements\AchievementRowView.cs
+Achievements\AchievementsPanelController.cs
+Achievements\AchievementsPersistenceAdapter.cs
+Achievements\AchievementsSystem.cs
+Achievements\IAchievementsPersistence.cs
+Achievements\RankConfig.cs
+Auth\AccountButtonController.cs
+Auth\AccountPanelController.cs
+Auth\AuthGate.cs
+Auth\AuthService.cs
+Business\BusinessCatalog.cs
+Business\BusinessSystem.cs
+Core\GameModel.cs
+Core\NumberAbbreviations.cs
+Core\ProjectInitializer.cs
+Core\UpgradeData.cs
+Saves\CloudSaveProvider.cs
+Saves\ISaveProvider.cs
+Saves\LocalSaveProvider.cs
+Saves\SaveData.cs
+Saves\SaveOrchestrator.cs
+UI\BusinessPanelController.cs
+UI\BusinessRowView.cs
+UI\CurrencyView.cs
+UI\TabController.cs
+UI\TapToEarn.cs
+UI\UIBootstrap.cs
+UI\UIButtonPulse.cs
+UI\UITheme.cs
+UI\UnlockGate.cs
+UI\UpgradeRowView.cs
+UI\UpgradesSystem.cs
