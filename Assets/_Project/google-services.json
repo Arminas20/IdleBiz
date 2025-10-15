@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200431806661",
+    "project_id": "idlebiz",
+    "storage_bucket": "idlebiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200431806661:android:e15845d7a90e4b8307a8ac",
+        "android_client_info": {
+          "package_name": "morduzas.idlebiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALLPhKVH2zh2_cp41wuSTGy9_At32_IsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

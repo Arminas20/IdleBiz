@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a46343fa05b072a48bc5e5bde6703609, type: 3}
+  m_Name: DefaultBusinessCatalog
+  m_EditorClassIdentifier: 
+  Items:
+  - Id: freelancer
+    Name: Freelancer
+    UnlockCost: 0
+    UnlockedByDefault: 1
+  - Id: content_studio
+    Name: Content Studio
+    UnlockCost: 20000
+    UnlockedByDefault: 0
+  - Id: online_shop
+    Name: Online Shop
+    UnlockCost: 200000
+    UnlockedByDefault: 0
+  - Id: app_dev_agency
+    Name: App Dev Agency
+    UnlockCost: 5000000
+    UnlockedByDefault: 0
